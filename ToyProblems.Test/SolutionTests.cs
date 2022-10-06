@@ -1,6 +1,6 @@
 namespace ToyProblems.Test;
 
-public class UnitTest1
+public class SolutionTests
 {
     [Fact]
     public void Test1()
